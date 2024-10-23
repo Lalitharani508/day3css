@@ -1,0 +1,125 @@
+.a{
+    background-color: #AB886D;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color:white;
+    padding:15px;
+    margin-bottom: 15px;
+    border-width:1px;
+    border-color: #1c1008;
+    font-size: 30px;
+    border-style: solid;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:-50px;
+    margin-right: -50px;
+    
+}
+.div1{
+    display: inline-block;
+    
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 2px 2px grey;
+   
+
+}
+
+.A{
+    text-decoration: underline;
+}
+/* img{
+    width:400px; */
+
+body{
+    background-color: #E4E0E1;
+    text-align: center;
+    
+}
+.div1-6{
+    margin: 0px 40px 0px 40px;
+    text-align:center;
+}
+
+img{
+    width:340px;
+    height: 300px;
+
+}  
+.div2{
+    display: inline-block;
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    margin:0px -5px 10px 5px;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 2px 2px grey;
+
+   
+}
+.div3{
+    display: inline-block;
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 2px 2px grey;
+
+}
+.div4{
+    display: inline-block;
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 2px 2px grey;
+
+}
+.div5{
+    display: inline-block;
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    margin:0px -5px 10px 5px;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 2px 2px grey;
+    
+    
+
+}
+.div6{
+    display: inline-block;
+    background-color: white;
+    padding:10px 15px 40px 15px;
+    text-align: center;
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+    box-shadow: 50px;
+    box-shadow: 2px 2px grey;
+    
+
+}
+.div7{
+    background-color: #AB886D; 
+    text-align: center; 
+    color:white;
+    width:auto; 
+    height:auto;
+    padding-bottom: 5px; 
+    font-size: 20px;
+    margin-left:-50px;
+    margin-right: -50px;
+}
